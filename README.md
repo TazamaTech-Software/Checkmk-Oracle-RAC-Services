@@ -1,5 +1,14 @@
 # Oracle RAC Services — Checkmk Extension Package (MKP)
 
+> Developed and maintained by **[TazamaTech Software GmbH](https://www.tazamatech.com)** — a software company
+> specializing in monitoring, automation, and IT infrastructure solutions.
+>
+> Need help with this project? TazamaTech offers professional support contracts covering
+> installation, configuration, and ongoing assistance. Contact us at
+> [Support@TazamaTech.com](mailto:Support@TazamaTech.com).
+
+---
+
 Checkmk extension for monitoring Oracle Real Application Clusters (RAC) and
 Cluster Resource Services (CRS). Collects health and status data from every
 RAC node via the Checkmk agent and evaluates the results on the Checkmk server.
